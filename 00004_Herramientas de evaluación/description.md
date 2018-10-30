@@ -48,7 +48,7 @@ Pero... _¿cómo se evalúa?_ Te dejamos algunas herramientas útiles para ello 
     </div>
     <div id="collapseFour" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>Los <em>cuestionarios</em> resultan una estrategia útil para cuando trabajamos en aulas muy numerosas. Consiste en una serie de preguntas cerradas cuya administración puede estar a cargo del profesor@ o l@s estudiantes. Resulta importante al momento de utilizar este tipo de herramienta que se pueda pensar de antemano que tipo de retroalimentación tendrán l@s estudiantes ya que si se trata de un cuestionario automatizado que otorga un resultado numérico es probable que la evaluación no brinde la información suficiente al estudiante sobre el proceso.</p>
+        <p>Los <em>cuestionarios</em> resultan una estrategia útil para cuando trabajamos en aulas muy numerosas. Consiste en una serie de preguntas cerradas cuya administración puede estar a cargo de l@s docentes o l@s estudiantes. Resulta importante al momento de utilizar este tipo de herramienta que se pueda pensar de antemano qué tipo de retroalimentación tendrán l@s estudiantes ya que si se trata de un cuestionario automatizado que otorga un resultado numérico es probable que la evaluación no brinde la información suficiente al estudiante sobre el proceso.</p>
       </div>
     </div>
   </div>
