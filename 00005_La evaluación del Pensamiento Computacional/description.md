@@ -4,4 +4,4 @@ Vari@s académic@s han dedicado tiempo a diseñar herramientas específicas que 
 * Cearreta (2015), retoma las dimensiones de los autores anteriores y elabora su propio cuestionario. Elabora cuestionarios desde tres perspectivas: alumno, profesor e investigador;
 * en Sudáfrica se desarrolló el "Computational Thinking Framework (CTF)";
 * en Taiwán, recientemente se ha realizado una evaluación del PC (Lee, Lin & Lin, 2014), usando para ello una selección de 15 tareas problemas extraídos del ["International Bebras Contest"](http://www.bebras.org/): un concurso a nivel internacional sobre fluidez informática y computacional en edades escolares;
-* en España se desarrolló el  "Test de Pensamiento Computacional" para estudiantes de 12 y 13 años.
+* en España se desarrolló el "Test de Pensamiento Computacional" para estudiantes de 12 y 13 años.
