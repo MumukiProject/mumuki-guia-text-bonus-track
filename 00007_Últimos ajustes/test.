@@ -1,4 +1,2 @@
 - name: Se completó la consigna, criterios e instrumentos
-  keys:
-    consigna_criterios_instrumentos:
-      match: .*
+  keys: {}
